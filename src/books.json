@@ -1,0 +1,110 @@
+[
+	{
+		"cover": "https://m.media-amazon.com/images/I/81yo44UiIUL._UF1000,1000_QL80_.jpg",
+		"title": "In Search of Lost Time",
+		"author": "Marcel Proust",
+		"description": "description",
+		"published": 1913,
+		"rating": 9.8,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			},
+			{
+				"provider": "Apple Books",
+				"url": "https://www.apple.com/apple-books/"
+			},
+			{
+				"provider": "Play Store",
+				"url": "https://play.google.com/store/books"
+			}
+		]
+	},
+	{
+		"cover": "https://images.squarespace-cdn.com/content/v1/523dee8ee4b0c59776ef8c3a/1589656354441-2M9W3HKWHXO81Y9K4BSU/swann%27s+way.jpg?format=1000w",
+		"title": "Swan's way",
+		"author": "Marcel Proust",
+		"description": "description",
+		"published": 1919,
+		"rating": 9.8,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			}
+		]
+	},
+	{
+		"cover": "https://www.glenat.com/sites/default/files/images/livres/couv/9782344053898-001-T.jpeg",
+		"title": "Don Quixote",
+		"author": "Miquel de Cervantes",
+		"description": "description",
+		"published": 1605,
+		"rating": 9.7,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			}
+		]
+	},
+	{
+		"cover": "https://m.media-amazon.com/images/I/612XRGTQ7uL._UF1000,1000_QL80_.jpg",
+		"title": "Ulysses",
+		"author": "James Joyce",
+		"description": "description",
+		"published": 1904,
+		"rating": 9.5,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			},
+			{
+				"provider": "Apple Books",
+				"url": "https://www.apple.com/apple-books/"
+			},
+			{
+				"provider": "Play Store",
+				"url": "https://play.google.com/store/books"
+			}
+		]
+	},
+	{
+		"cover": "https://m.media-amazon.com/images/I/81QuEGw8VPL.jpg",
+		"title": "The Great Gatsby",
+		"author": "F. Scott Fitzgerald",
+		"description": "<b>The Great Gatsby</b> is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with Jay Gatsby, the mysterious millionaire with an obsession to reunite with his former lover, Daisy Buchanan.<br/>The novel was inspired by a youthful romance Fitzgerald had with socialite Ginevra King, and the riotous parties he attended on Long Island's North Shore in 1922. Following a move to the French Riviera, Fitzgerald completed a rough draft of the novel in 1924. He submitted it to editor Maxwell Perkins, who persuaded Fitzgerald to revise the work over the following winter. After making revisions, Fitzgerald was satisfied with the text, but remained ambivalent about the book's title and considered several alternatives. Painter Francis Cugat's dust jacket art, named Celestial Eyes, greatly impressed Fitzgerald, and he incorporated its imagery into the novel.",
+		"published": 1925,
+		"rating": 9.4,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			},
+			{
+				"provider": "Apple Books",
+				"url": "https://www.apple.com/apple-books/"
+			}
+		]
+	},
+	{
+		"cover": "https://m.media-amazon.com/images/I/71d5wo+-MuL._AC_UF1000,1000_QL80_.jpg",
+		"title": "Moby Dick",
+		"author": "Herman Melville",
+		"description": "string",
+		"published": 1851,
+		"rating": 9.3,
+		"links": [
+			{
+				"provider": "Amazon",
+				"url": "https://www.amazon.com/"
+			},
+			{
+				"provider": "Play Store",
+				"url": "https://play.google.com/store/books"
+			}
+		]
+	}
+]
