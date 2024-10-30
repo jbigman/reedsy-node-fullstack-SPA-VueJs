@@ -1,6 +1,6 @@
 
 <script setup lang="ts">
-import type IBook from '@/intefaces/IBook.js';
+import type IBook from '@/components/Books/IBook.js';
 import { ref } from 'vue';
 
 defineProps<{
@@ -47,6 +47,10 @@ function toggleDetails() {
 
 
 <style scoped>
+
+img {
+  border-radius: var(--cover-radius);
+}
 .row {
   display: flex;
   flex-direction: row;

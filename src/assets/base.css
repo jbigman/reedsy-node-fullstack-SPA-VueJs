@@ -4,7 +4,7 @@
   --text-color: rgb(142 120 118);
   --link-color: #869e44;
   --color-background: var(--alternate-color);
-
+  --cover-radius: 5px;
   --padding: 20px;
 }
 
@@ -22,13 +22,6 @@ body {
     -apple-system,
     BlinkMacSystemFont,
     'Segoe UI',
-    Roboto,
-    Oxygen,
-    Ubuntu,
-    Cantarell,
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
     sans-serif;
   font-size: 15px;
   text-rendering: optimizeLegibility;

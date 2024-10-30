@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import BookItem from './BookItem.vue'
-import books from '../books.json'
+import books from '../../books.json'
 import { computed, onMounted, ref } from 'vue';
-import type IBook from '@/intefaces/IBook.js';
+import type IBook from '@/components/Books/IBook.js';
 
 // Pagination state
 const itemsPerPage = 5;

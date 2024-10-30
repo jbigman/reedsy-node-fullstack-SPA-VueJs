@@ -3,7 +3,7 @@ import { describe, it, expect } from 'vitest'
 import { mount } from '@vue/test-utils'
 import BookItem from '../BookItem.vue'
 
-import books from '../../books.json'
+import books from '../../../books.json'
 
 describe('BookItem', () => {
   it('renders properly', () => {
